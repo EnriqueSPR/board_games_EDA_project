@@ -48,7 +48,7 @@
   * Fine tuned the most promissing algo (XGB-Regressor)
   This however rended a poor prediction score, probably because there are other variables that may play an important role in buying a game not considered here. The most prominent example would be the product price. Nonetheless, by taking a look to the feature importance features we can obtain some valuable information about the game characteristics that seem to contribute most to the number of users buying the game:
   
-  <img src="figures/feature_importance.png" width="600"/> 
+  <img src="figures/features_importance.png" width="600"/> 
   
  # 4. Conclusions
  Overall, some of the interesting insights we got from our analyses is that **games with a high number of sales** are most likely: 
