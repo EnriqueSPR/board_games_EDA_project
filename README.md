@@ -39,5 +39,27 @@
   * What games have been sold most times?
   
    <img src="figures/yearpub_gamessold.png" width="600"/> 
+   
+   # 3. Training a Machine Learning Algorithm:
+   
+  I attempted to predict the number of owners for a boardgame based solely on some of the game properties. For this I follow the usual steps:
+  * Data split and data preprocessing (StandardScaler)
+  * Exploring model performance of ML different regression algorithms 
+  * Fine tuned the most promissing algo (XGB-Regressor)
+  This however rended a poor prediction score, probably because there are other variables that may play an important role in buying a game not considered here. The most prominent example would be the product price. Nonetheless, by taking a look to the feature importance features we can obtain some valuable information about the game characteristics that seem to contribute most to the number of users buying the game:
   
+  <img src="figures/feature_importance.png" width="600"/> 
+  
+ # 4. Conclusions
+ Overall, some of the interesting insights we got from our analyses is that **games with a high number of sales** are most likely: 
+ * **Card games** 
+ * With a **medium level of difficulty**.
+ * **High minimum age**
+ * With **no time or player restrains**.
+ * **Expansions** (Normal, since they are well-stablished games)
+ 
+  **Future work**:
+   * It would be interesting to get the **prices** of each boardgame to analyze whether if card games are sold mostly because they are often cheaper.
+   * With the price info we could also create a new feature of **price * owner** to study in what boardgames most money has been spent on.
+   * Finally, with price invested in the manufacturing of each game we could finally obtain a list of the **most profitable games**.
   
