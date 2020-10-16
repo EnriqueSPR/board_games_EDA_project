@@ -51,7 +51,7 @@
   <img src="figures/features_importance.png" width="600"/> 
   
  # 4. Conclusions
- Overall, some of the interesting insights we got from rhese analyses is that **games with a high number of sales** are most likely: 
+ Overall, some of the interesting insights we got from these analyses is that **games with a high number of sales** are most likely: 
  * **Card games** 
  * With a **medium level of difficulty**.
  * **High minimum age**
