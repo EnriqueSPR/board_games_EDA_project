@@ -24,6 +24,20 @@
   
  # 2. Exploratory Data Analyses:
  I aimed to aswer the following questions:
- * What games people buy/own the most
+ * What games people buy/own the most?
  
   <img src="figures/type_of_game_owners.png" width="600"/> 
+  
+  * What type of games most succesfull companies sell?
+  
+  <img src="figures/pie_chart_games.png" width="500"/> 
+  
+  *  What game difficulty people prefer to buy/own?
+  
+  <img src="figures/game_level.png" width="400"/> 
+  
+  * What games have been sold most times?
+  
+   <img src="figures/yearpub_gamessold.png" width="600"/> 
+  
+  
