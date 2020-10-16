@@ -1,4 +1,7 @@
 # Board_games_EDA_project
+
+[**See full project here**](https://nbviewer.jupyter.org/github/EnriqueSPR/board_games_EDA_project/blob/main/BoardGames.ipynb)
+
 **Description**: An EDA project in which a board game database is analysed to investigate what factors drive sales for these products.
 
 # Code and Resources Used
