@@ -42,7 +42,7 @@
    
    # 3. Training a Machine Learning Algorithm:
    
-  I attempted to predict the number of owners for a boardgame based solely on some of the game properties. For this I follow the usual steps:
+  Furthermore, I attempted to predict the number of owners for a boardgame based solely on some of the game properties. For this I follow the usual steps:
   * Data split and data preprocessing (StandardScaler)
   * Exploring model performance of ML different regression algorithms 
   * Fine tuned the most promissing algo (XGB-Regressor)
