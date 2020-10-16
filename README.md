@@ -61,5 +61,6 @@
   **Future work**:
    * It would be interesting to get the **prices** of each boardgame to analyze whether if card games are sold mostly because they are often cheaper.
    * With the price info we could also create a new feature of **price * owner** to study in what boardgames most money has been spent on.
-   * Finally, with price invested in the manufacturing of each game we could finally obtain a list of the **most profitable games**.
+   * Also, with price invested in the manufacturing of each game we could finally obtain a list of the **most profitable games**.
+   * Finally, in the future I will use a **clustering** technique to group games. This can be useful for shop owners to suggest to the user similar games to those that they have alredy liked.
   
