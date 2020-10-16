@@ -26,4 +26,4 @@
  I aimed to aswer the following questions:
  * What games people buy/own the most
  
-  <img src=figures/"type_of_game_owners.png" width="600"/> 
+  <img src="figures/type_of_game_owners.png" width="600"/> 
